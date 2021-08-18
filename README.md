@@ -1,4 +1,4 @@
 # jenkins
 Jenkins for Cloud 
-Raunak Triigered by Github
+Raunak Triggered by Github
 hello
